@@ -1,0 +1,1 @@
+ssh -i "C:\Users\momo1\OneDrive\Desktop\dezyre.pem" ec2-user@REPLACE_HERE -o "ServerAliveInterval 30"

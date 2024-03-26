@@ -1,0 +1,1 @@
+scp -r -i "C:\Users\momo1\OneDrive\Desktop\dezyre.pem" D:\Projects\docker-compose.yml ec2-user@REPLACE_HERE:/home/ec2-user/
